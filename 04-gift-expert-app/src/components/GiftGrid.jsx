@@ -1,4 +1,3 @@
-import { useState,useEffect } from "react";
 import { GiftItem } from "./GiftItem";
 import { useFetchGifs } from "../hooks/useFetchGifs";
 
